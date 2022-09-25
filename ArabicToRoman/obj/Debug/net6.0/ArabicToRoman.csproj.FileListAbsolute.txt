@@ -1,0 +1,15 @@
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\obj\Debug\net6.0\ArabicToRoman.csproj.AssemblyReference.cache
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\obj\Debug\net6.0\ArabicToRoman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\obj\Debug\net6.0\ArabicToRoman.AssemblyInfoInputs.cache
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\obj\Debug\net6.0\ArabicToRoman.AssemblyInfo.cs
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\obj\Debug\net6.0\ArabicToRoman.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\bin\Debug\net6.0\ArabicToRoman.exe
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\bin\Debug\net6.0\ArabicToRoman.deps.json
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\bin\Debug\net6.0\ArabicToRoman.runtimeconfig.json
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\bin\Debug\net6.0\ArabicToRoman.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\bin\Debug\net6.0\ArabicToRoman.pdb
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\obj\Debug\net6.0\ArabicToRoman.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\obj\Debug\net6.0\refint\ArabicToRoman.dll
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\obj\Debug\net6.0\ArabicToRoman.pdb
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\obj\Debug\net6.0\ArabicToRoman.genruntimeconfig.cache
+C:\Users\lukas\Skrivebord\SOFT 2 SEM\Test\Afleveringer\Test_Handin_1\ArabicToRoman\obj\Debug\net6.0\ref\ArabicToRoman.dll
