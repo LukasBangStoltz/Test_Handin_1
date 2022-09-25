@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Test_Handind_1
 {
-    public static class Virk
+    public static class Temperature
     {
         public static void Main()
         {

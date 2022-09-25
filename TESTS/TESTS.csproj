@@ -24,7 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ArabicToRoman\ArabicToRoman.csproj" />
-    <ProjectReference Include="..\Test_Handind_1\Test_Handind_1.csproj" />
+    <ProjectReference Include="..\Test_Handind_1\Temperature.csproj" />
   </ItemGroup>
 
 </Project>

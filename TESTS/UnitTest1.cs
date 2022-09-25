@@ -11,12 +11,12 @@ namespace TESTS
         [Fact]
         public void TestSuccesFToC()
         {
-            Assert.Equal(37.7808f, Virk.fToC(100f));
+            Assert.Equal(37.7808f, Temperature.fToC(100f));
         }
         [Fact]
         public void TestFailFToC()
         {
-            Assert.Equal(5, Virk.fToC(100));
+            Assert.Equal(5, Temperature.fToC(100));
         }
 
         
@@ -25,12 +25,12 @@ namespace TESTS
         [Fact]
         public void TestSuccesCToF()
         {
-            Assert.Equal(212f, Virk.cToF (100f));
+            Assert.Equal(212f, Temperature.cToF (100f));
         }
         [Fact]
         public void TestFailCToF()
         {
-            Assert.Equal(37, Virk.cToF(100f));
+            Assert.Equal(37, Temperature.cToF(100f));
         }
 
 
